@@ -128,3 +128,7 @@
 .connected-container button {
   height: 50px;
 }
+
+.user-address {
+  color: white;
+}
